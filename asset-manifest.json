@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Diagnal/static/css/main.4b979a66.css",
+    "main.js": "/Diagnal/static/js/main.25a5ea87.js",
+    "index.html": "/Diagnal/index.html",
+    "main.4b979a66.css.map": "/Diagnal/static/css/main.4b979a66.css.map",
+    "main.25a5ea87.js.map": "/Diagnal/static/js/main.25a5ea87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b979a66.css",
+    "static/js/main.25a5ea87.js"
+  ]
+}
